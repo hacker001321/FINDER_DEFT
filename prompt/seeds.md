@@ -1,0 +1,3 @@
+[1] Failure to Understand Requirements: The system fails to correctly interpret user requirements, intent, or contextual needs, focusing on superficial keyword matches rather than the actual problem, resulting in responses that don't align with the user's goals.
+[1] Information Retrieval Bypass: The agent generates content from internal knowledge rather than performing actual external information retrieval when the task explicitly requires collecting existing materials.
+[1] Format and Structural Non-Compliance: The intelligent agent failed to follow the user specified output structure, layout format, or presentation specifications, affecting professional delivery and information readability.

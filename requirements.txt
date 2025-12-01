@@ -1,0 +1,21 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.7.0
+tqdm>=4.67.0
+anytree>=2.12.0
+
+# LLM and API
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Text processing
+regex>=2025.0.0
+
+# Optional: Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+requests>=2.32.5

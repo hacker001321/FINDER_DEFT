@@ -1,0 +1,24 @@
+You will receive a list of Failure Modes (Conceptual Categories). Your task is to merge the Failure Modes (Conceptual Categories) that are paraphrases or near duplicates of one another. Return "None" if no modification is needed.
+
+[Example]
+Failure Mode List:
+<pairs_of_similar_failure_mode>
+
+Your response:
+[1] <new_mode_name>: <description> ([1] <original_mode_1_name>, [1] <original_mode_2_name>)
+
+
+[Rules]
+- Each line of the Failure Mode List represents a Failure Mode, with a [1], a short general label, and a description.
+- Perform the following operations as many times as needed:
+    - Merge relevant Failure Modes into a single Failure Mode.
+    - Do nothing and return "None" if no modification is needed.
+- The merged Failure Mode should reflect commonalities while avoiding being overly broad. The name and description of the merged Failure Mode should be concise and easy to understand, avoiding being overly abstract.(The use of three or more objects, such as "… of A, B, C, …" in the mode name is prohibited, where a more comprehensive concept should be used instead).
+- When merging, the output format should contain a [1], the updated label and description, followed by the original topics.
+
+[Failure modes List]
+{Modes}
+
+Output the modification or "None" where appropriate. Do not output anything else.
+
+Your response:

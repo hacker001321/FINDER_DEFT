@@ -1,0 +1,22 @@
+You will receive a Failure Analysis Report on the deviations that occur when AI Agents perform complex deep research tasks (along with task execution records), as well as a set of Existing Failure Modes (Conceptual Categories). Your task is to identify the Failure Modes (Conceptual Categories related to failure) reflected in the report: if the identified Failure Mode already exists in the [Existing Failure Modes] list, directly output that Failure Mode; if the identified Failure Mode is not covered, generate a new Failure Mode.
+
+[Instruction]
+If duplicate or related Failure Modes already exist in the set, these Modes shall be output with priority. For newly generated Failure Modes, the following regulations should be adhered to:
+- The Failure Mode needs to be representative;
+- The Failure Mode needs to be specific enough to avoid combination or composite Failure Modes;
+- The Description of Failure Mode needs to be general, NOT relying on specific instances or details;
+- The name and description of the Failure Mode should be concise and easy to understand, avoiding being overly abstract;
+- Each Failure Mode returned should start with "[1]" followed by the Failure Mode Label and a Description of the Failure Mode.
+
+[Existing Failure Modes]
+{Modes}
+
+[Failure Analysis Report]
+{Report}
+
+Return multiple specific Failure Modes to fully present the content of this Failure Analysis Report. Your response must strictly follow the following format and must not contain any irrelevant content:
+
+[1] Failure Mode Label: Failure Mode Description.
+[1] Failure Mode Label: Failure Mode Description...
+
+Your response:
