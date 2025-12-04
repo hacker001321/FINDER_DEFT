@@ -2,7 +2,7 @@
 
 <h2>How Far Are We from Genuinely Useful Deep Research Agents?</h2>
 
-[English](README.md) | [简体中文](README_CN.md)
+[English](README.md)
 
 </div>
 
@@ -10,7 +10,9 @@
 
   <a href='https://www.python.org/downloads/release/python-3119/'><img src='https://img.shields.io/badge/Python-3.11-green'></a>
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
-  <a href='https://arxiv.org/abs/2025.xxxxx'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+  <a href='https://arxiv.org/abs/2512.01948'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+  <a href='https://huggingface.co/papers/2512.01948'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-yellow'></a>
+
 
 </div>
 
@@ -291,4 +293,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 
-## Star
+```bibtex
+@misc{zhang2025fargenuinelyusefuldeep,
+      title={How Far Are We from Genuinely Useful Deep Research Agents?}, 
+      author={Dingling Zhang and He Zhu and Jincheng Ren and Kangqi Song and Xinran Zhou and Boyu Feng and Shudong Liu and Jiabin Luo and Weihao Xie and Zhaohui Wang and Tianrui Qin and King Zhu and Yuqing Wang and Qianben Chen and Yuchen Eleanor Jiang and Wei Wang and Jiaheng Liu and Wangchunshu Zhou},
+      year={2025},
+      eprint={2512.01948},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.01948}, 
+}
+```
+
+## 🌟 Misc
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OPPO-PersonalAI/FINDER_DEFT&type=Date)](https://github.com/OPPO-PersonalAI/FINDER_DEFT)
+
+</div>
