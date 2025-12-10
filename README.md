@@ -12,6 +12,7 @@
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
   <a href='https://arxiv.org/abs/2512.01948'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
   <a href='https://huggingface.co/papers/2512.01948'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-yellow'></a>
+  <a href='https://huggingface.co/datasets/PersonalAILab/FINDER'><img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow'></a>
 
 
 </div>
